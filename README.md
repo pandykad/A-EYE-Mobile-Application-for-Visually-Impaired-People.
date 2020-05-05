@@ -24,7 +24,7 @@ OCR module is used to convert the text inside the image into an actual text. Our
 To do this we have divided the photo into two halves. The lower half is generally where the price is. This saves extra computations. Further in the lower half, we then focus on the text which is bold or which has a bigger text size than the rest of the text inside the image.  
   
 ##### Some sample images of the applications :      
-<img src="images/homepage.png" height="300" alt="my image"><img src="images/object_detection.png" height="300" alt="my image"><img src="images/ocr.png" height="300" alt="my image">  
+<img src="images/homepage.png" height="300" alt="my image">  <img src="images/object_detection.png" height="300" alt="my image">  <img src="images/ocr.png" height="300" alt="my image">  
 
 
 

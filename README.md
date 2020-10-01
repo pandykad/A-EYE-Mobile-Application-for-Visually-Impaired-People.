@@ -1,5 +1,5 @@
 # A-EYE-Mobile-Application-for-Visually-Impaired-People.
-Flutter based mobile application which uses machine learning for object detection provides the name of the object and its position(either left or right side) as an audio output. It also uses optical character recognition to scan text and provides price and expiry date of the product.    
+Flutter based mobile application which uses machine learning for object detection provides the name of the object and its position(either left or right side) as an audio output. It also uses optical character recognition to scan text and provides price and expiry date of the respective product.    
 
 - Flutter framework was used to develop this application, thus, this app will run on Android as well as on iOS platform.  
 - TensorFlow Lite and MobileNet provide the necessary dependencies and will do the required object detection.    
